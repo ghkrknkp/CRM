@@ -199,7 +199,7 @@ project-root/
 
 ```
 
-git clone [https://github.com/your-username/project-name.git](https://github.com/your-username/project-name.git)
+Live link [https://harmonious-crepe-73eff0.netlify.app/]
 
 ```
 
