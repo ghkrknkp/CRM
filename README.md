@@ -321,7 +321,7 @@ Tools:
 - Postman
 
 ---
-Live Link (https://harmonious-crepe-73eff0.netlify.app/)
+
 ## Author
 
 **Name:** Sarin S  
